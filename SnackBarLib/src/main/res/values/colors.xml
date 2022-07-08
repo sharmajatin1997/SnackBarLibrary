@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#131315</color>
+    <color name="colorPrimaryDark">#131315</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="transparent">#80FFFFFF</color>
+    <color name="secondaryDark">#131315</color>
+    <color name="text_grey">#A4A4A4</color>
+
+        <color name="black">#FF000000</color>
+    <color name="black_opacity75">#BF000000</color>
+    <color name="text_black">#181818</color>
+    <color name="search_black">#141416</color>
+    <color name="black_opacity40">#66000000</color>
+    <color name="black_opacity10">#1A000000</color>
+    <color name="black_opacity91">#333333</color>
+    <color name="light_black">#514E4E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_opacity70">#B3FFFFFF</color>
+    <color name="light_white">#99FFFFFF</color>
+    <color name="bg">#1A1729</color>
+
+    <color name="bg_text_invite">#B3111111</color>
+    <color name="signUp_bg">#131315</color>
+    <color name="grey">#D7D7D8</color>
+    <color name="grey1">#7F7F7F</color>
+    <color name="grey1_opa30">#4D7F7F7F</color>
+    <color name="grey2">#BFBFBF</color>
+    <color name="grey3">#707070</color>
+    <color name="gray">#7C7C7D</color>
+    <color name="light_grey">#D6D6D6</color>
+    <color name="light_gray">#909090</color>
+    <color name="pink">#EC6183</color>
+    <color name="orange">#FE5C34</color>
+    <color name="light_orange">#FE693C</color>
+    <color name="light_orange2">#FF7421</color>
+    <color name="light_orange1">#66FE693C</color>
+    <color name="yellow">#FD9922</color>
+    <color name="grey_4">#B3141416</color>
+    <color name="toast_red">#FF0000</color>
+    <color name="light_red">#FF5F5F</color>
+    <color name="toast_green">#008000</color>
+    <color name="light_Green">#50FF8A</color>
+    <color name="light_Green1">#05D492</color>
+    <color name="green">#2AC953</color>
+
+</resources>

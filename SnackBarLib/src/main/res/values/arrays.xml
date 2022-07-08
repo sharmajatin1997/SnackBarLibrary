@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Language">
+        <item>ENG</item>
+        <item>HIN</item>
+    </string-array>
+
+    <string-array name="Range">
+        <item>Range-optimized campaign</item>
+        <item>Click-optimized campaign</item>
+    </string-array>
+
+    <string-array name="User_type">
+        <item>Living Room</item>
+        <item>Event Manager</item>
+        <item>Artist</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>All</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="map_km">
+        <item>500 km</item>
+        <item>1000 km</item>
+        <item>5000 km</item>
+    </string-array>
+
+    //for query LR
+    <string-array name="query_lr">
+        <item>Refund</item>
+        <item>Event</item>
+        <item>Other</item>
+    </string-array>
+
+    //for query
+    <string-array name="query">
+        <item>Event</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="reason">
+        <item>Changes to the line up</item>
+        <item>Technical difficulties</item>
+        <item>Date / Time Changes</item>
+        <item>Other reasons, please specify</item>
+    </string-array>
+
+    <string-array name="earning_em">
+        <item>This Week</item>
+        <item>Last Week</item>
+        <item>This Month</item>
+        <item>Last Month</item>
+        <item>This Year</item>
+    </string-array>
+
+</resources>

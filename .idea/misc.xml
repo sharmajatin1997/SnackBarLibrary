@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/drawable/error_bg.xml" value="0.158" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/drawable/ic_launcher_background.xml" value="0.158" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/drawable/success_layout.xml" value="0.158" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/layout/snackbar.xml" value="0.2" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/layout/toast_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBar/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.158" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/SnackBarLib/src/main/res/layout/snackbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/aDemos/SnackBarLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.158" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

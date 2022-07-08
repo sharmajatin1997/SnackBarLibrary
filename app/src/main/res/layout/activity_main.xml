@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/simpleEror"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple Error Msg"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/simpleSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_20"
+        android:text="Simple Success Msg"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/errorMsgIconTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_20"
+        android:text="Error Msg with Icon Top"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+
+
+    <TextView
+        android:id="@+id/errorMsgIconTopRTL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_20"
+        android:text="Error Msg with Icon Top RTL"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+    <TextView
+        android:id="@+id/errorMsgIconBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_20"
+        android:text="Error Msg with Icon Bottom"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/errorMsgIconBottomRTL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_20"
+        android:text="Error Msg with Icon Bottom RTL"
+        android:textSize="@dimen/text_20"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>
